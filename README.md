@@ -1,5 +1,5 @@
 
-#  Malaria Prevalence Prediction Using Logistic Regression
+#  Prevalance of malaria in Nigeria using Logistic Regression 
 
 Malaria remains a major public health concern in many parts of the world, especially in regions with high transmission rates. This project aims to build a **logistic regression model** in **R** to predict the **prevalence of malaria** using key **demographic and environmental factors**.
 
