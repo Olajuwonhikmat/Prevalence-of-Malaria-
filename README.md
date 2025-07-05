@@ -49,6 +49,6 @@ This model can support public health agencies by:
 
 This project emphasizes the importance of **data-driven approaches** in combating malaria. The logistic regression model provides useful insights into key risk factors and serves as a foundation for future model enhancement and more targeted public health strategies.
 
-## 📚 Keywords
+##  Keywords
 
 `Malaria` · `Logistic Regression` · `R Programming` · `ROC Curve` · `AUC` · `Public Health` · `Prediction` · `Data Science`
